@@ -14,7 +14,7 @@ Call of Code is more than just a coding club—it's a vibrant community of passi
 
 ## Core Team
 
-| Color             | Hex                                                                |
+| Member             | Role                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Harish Narote | DSA Head
 | Shruti Jadhav | DSA Head  
