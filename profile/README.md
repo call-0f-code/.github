@@ -16,11 +16,12 @@ Call of Code is more than just a coding club—it's a vibrant community of passi
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Sarvesh Shahane | President
-| Vansh Waldeo | Vice President  
-| Shivaji Raut | Cp Head |
-| Aditya Modak | Secretary |
-| Sanica Chorey | Secretary |
+| Harish Narote | DSA Head
+| Shruti Jadhav | DSA Head  
+| Shashwati Meshram | Web Development Head |
+| Samarth Lad | Web Development Head |
+| Vedant Bulbule | AIML Head |
+| Sherin Thomas | Club Representative |
 
 
 ## Motive of Club 
