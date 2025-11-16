@@ -32,7 +32,7 @@ Call of Code aims to foster a culture of self-learning, collaboration, and innov
 ## When did we start ?
 
 
-Call of Code began its journey on **November 7th, 2022**, with a grand inauguration at **TSSM's Padmabhushan Vasantdada Patil Institute of Technology**. The event, led by **Honorable Principal Dr. R.S. Pawar**, marked the transformation of **Lab 307** into the club’s hub, symbolizing our commitment to self-learning, innovation, and collaboration. 🚀
+Call of Code began its journey on **November 7th, 2022**, with a grand inauguration at **TSSM's Padmabhushan Vasantdada Patil Institute of Technology**. The event symbolized our commitment to self-learning, innovation, and collaboration. 🚀
 
 ## Contact
 
